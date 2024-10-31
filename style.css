@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+form{
+    text-align: center;
+    margin: auto;
+    width: 600px;
+    background-color: pink;
+    border: solid black;
+    padding: 20px;
+}
+input{
+    display: block;
+    width: 100%;
+}
+
+
